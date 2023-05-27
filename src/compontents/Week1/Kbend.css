@@ -1,0 +1,37 @@
+.timer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .timer {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .video-frame {
+    width: 100%;
+    max-width: 868px;
+    height: 488px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .angle.right.icon {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 75px;
+    cursor: pointer;
+  }
+  

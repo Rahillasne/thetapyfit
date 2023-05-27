@@ -1,0 +1,25 @@
+.timer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .video-frame {
+    width: 868px;
+    height: 488px;
+    margin-bottom: 20px;
+  }
+  
+
+  
+
+
+  
